@@ -9,6 +9,8 @@
 
 <hr>
 
+Program 3D sederhana yang menampilkan gedung Rixos Premium Dubai JBR menggunakan pustaka OpenGL Utility Toolkit. Program ini memiliki dua mode kamera yaitu normal mode dan bird mode.
+
 #### Fungsi keyboard :
 <ul>
     <li> w - menggerakkan kamera ke depan
